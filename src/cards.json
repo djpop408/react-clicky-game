@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Spider Man",
+    "image": "https://i.imgur.com/8tMKosC.jpg",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Iron Man",
+    "image": "https://i.imgur.com/ChDxnlg.jpg",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "Black Panther",
+    "image": "https://i.imgur.com/pKp1AVJ.jpg",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "Deadpool",
+    "image": "https://i.imgur.com/sD3Vemc.jpg",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "Captain America",
+    "image": "https://i.imgur.com/yVre5mI.jpg",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "Ant-Man",
+    "image": "https://i.imgur.com/4j2cDdq.jpg",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "Guardians of the Galaxy",
+    "image": "https://i.imgur.com/4tK3uUt.jpg",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "Captain Marvel",
+    "image": "https://i.imgur.com/uiSGQG7.jpg",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "Wolverine",
+    "image": "https://i.imgur.com/0AXMd4C.jpg",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "Luke Cage",
+    "image": "https://i.imgur.com/PDN9wiD.jpg",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "Avengers",
+    "image": "https://i.imgur.com/2u48Suz.jpg",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Jessica Jones",
+    "image": "https://i.imgur.com/Db0Ivbm.jpg",
+    "count": 0
+  }
+]
