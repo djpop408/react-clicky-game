@@ -1,4 +1,4 @@
-# react-clicky-game
+# React Clicky Game
 
 Link to live demo - https://djpop408.github.io/react-clicky-game/
 
@@ -10,4 +10,3 @@ A memory game with React.js. This project breaks up the application into UI into
 
 - React
 - React-Dom
-
